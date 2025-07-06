@@ -1,4 +1,4 @@
-# [HR_Analytics_dashboard](https://github.com/NishaSoni-Analyst/HR_Analytics_dashboard/blob/main/HR_Analytics_Dashboard.pdf)
+# [HR_Analytics_dashboard_Power BI](https://github.com/NishaSoni-Analyst/HR_Analytics_dashboard/blob/main/HR_Analytics_Dashboard.pdf)
 
 ![template](https://github.com/NishaSoni-Analyst/HR_Analytics_dashboard/blob/main/HR_Analytics_dashboard_img.png)
 
