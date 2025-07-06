@@ -1,4 +1,5 @@
 # [HR_Analytics_dashboard](https://github.com/NishaSoni-Analyst/HR_Analytics_dashboard/blob/main/HR_Analytics_Dashboard.pdf)
+
 [!template](https://github.com/NishaSoni-Analyst/HR_Analytics_dashboard/blob/main/HR_Analytics_dashboard_img.png)
 
 A **Power BI dashboard** project analyzing employee attrition using real-world HR data. The dashboard helps uncover trends and insights around employee turnover, demographics, job roles, salary ranges, and more.
